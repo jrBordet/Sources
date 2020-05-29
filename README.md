@@ -1,4 +1,4 @@
-# RxFramework.podspec
+# Sources.podspec
 
 ## Usage - CocoaPods
 
