@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = 'RxComposableArchitecture'
+  spec.name         = 'RxComposableArchitectureTests'
   spec.version      = '1.0.0'
   spec.license      = 'MIT'
   spec.summary      = 'A Rx version of ComposableArchitecture.'
