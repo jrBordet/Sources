@@ -12,5 +12,6 @@ Pod::Spec.new do |spec|
   spec.dependency 'RxSwift', '~> 5'
   spec.dependency 'RxCocoa', '~> 5'
   spec.dependency 'RxComposableArchitecture', '1.0.0'
+  spec.dependency 'Difference', '0.4'
   spec.weak_framework = 'XCTest'
 end
