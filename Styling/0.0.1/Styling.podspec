@@ -9,4 +9,5 @@ Pod::Spec.new do |spec|
   spec.source_files = 'Styling/**/*.{swift}'
   spec.requires_arc = true
   spec.ios.deployment_target = '10.0'
+  spec.dependency 'Caprice', '0.0.1'
 end
