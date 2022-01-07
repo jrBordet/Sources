@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'RxComposableArchitectureTests'
-  spec.version      = '2.1.3'
+  spec.version      = '4.0.0'
   spec.license      = 'MIT'
   spec.summary      = 'Utilities for Unit Testing with RxComposableArchitecture.'
   spec.homepage     = 'https://github.com/jrBordet/RxComposableArchitecture.git'
